@@ -1,1 +1,0 @@
-# modulos_biblia_k
