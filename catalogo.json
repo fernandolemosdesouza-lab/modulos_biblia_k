@@ -1,0 +1,55 @@
+{
+  "versao_catalogo": 1,
+  "modulos": [
+    {
+      "id": "biblia_acf1911_pt",
+      "titulo": "Almeida Corrigida Fiel (1911)",
+      "tipo": "biblia",
+      "idioma": "PT",
+      "tamanho_mb": 4.2,
+      "descricao": "Texto clássico em português (Domínio Público).",
+      "arquivo": "biblia_acf1911_pt.db",
+      "url": "https://raw.githubusercontent.com/fernandolemosdesouza-lab/modulos_biblia_k/main/biblia_acf1911_pt.db"
+    },
+    {
+      "id": "com_unfolding_pt",
+      "titulo": "Notas Exegéticas unfoldingWord",
+      "tipo": "comentario",
+      "idioma": "PT",
+      "tamanho_mb": 8.5,
+      "descricao": "Notas de tradução, contexto histórico e gramática original (CC BY-SA 4.0).",
+      "arquivo": "com_unfolding_pt.db",
+      "url": "https://raw.githubusercontent.com/fernandolemosdesouza-lab/modulos_biblia_k/main/com_unfolding_pt.db"
+    },
+    {
+      "id": "com_robertson_pt",
+      "titulo": "Imagens Verbais no NT (A.T. Robertson)",
+      "tipo": "comentario",
+      "idioma": "PT",
+      "tamanho_mb": 6.8,
+      "descricao": "Análise sintática e lexical do Grego Koinê no Novo Testamento.",
+      "arquivo": "com_robertson_pt.db",
+      "url": "https://raw.githubusercontent.com/fernandolemosdesouza-lab/modulos_biblia_k/main/com_robertson_pt.db"
+    },
+    {
+      "id": "com_unfolding_en",
+      "titulo": "unfoldingWord Translation Notes",
+      "tipo": "comentario",
+      "idioma": "EN",
+      "tamanho_mb": 8.1,
+      "descricao": "Verse-by-verse exegetical and translation notes (CC BY-SA 4.0).",
+      "arquivo": "com_unfolding_en.db",
+      "url": "https://raw.githubusercontent.com/fernandolemosdesouza-lab/modulos_biblia_k/main/com_unfolding_en.db"
+    },
+    {
+      "id": "com_unfolding_es",
+      "titulo": "Notas de Traducción unfoldingWord",
+      "tipo": "comentario",
+      "idioma": "ES",
+      "tamanho_mb": 8.3,
+      "descricao": "Notas exegéticas y gramaticales versículo por versículo (CC BY-SA 4.0).",
+      "arquivo": "com_unfolding_es.db",
+      "url": "https://raw.githubusercontent.com/fernandolemosdesouza-lab/modulos_biblia_k/main/com_unfolding_es.db"
+    }
+  ]
+}
